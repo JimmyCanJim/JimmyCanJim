@@ -4,5 +4,5 @@ Full-Stack developer engineering scalable solutions with the MERN stack, while a
 
 ## Tech Stacks and Tools:
 - Languages : Java, Python, JavaScript
-- Full-Stack/Web : MongoDB, Express, React, Node.js, typeScript
+- Tools and Frameworks : MongoDB, Express, React, Node.js, typeScript
 - Tools :
